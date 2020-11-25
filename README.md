@@ -1,10 +1,28 @@
-# Node-Pi-Ager
-Dry Aging Fridge with Raspberry Pi based on pi-ager.org
+# pi-ager-node
 
-## License:
+a [Sails v1](https://sailsjs.com) application
 
-[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-This project is licensed under the GPL v3.0 License - see the [LICENSE](LICENSE) file for details
+### Links
 
-**!!Special note!!: It is not allowed to use the software, e.g. in ready-made refrigerators, for sale and commercial use.**
++ [Sails framework documentation](https://sailsjs.com/get-started)
++ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
++ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
++ [Community support options](https://sailsjs.com/support)
++ [Professional / enterprise options](https://sailsjs.com/enterprise)
+
+
+### Version info
+
+This app was originally generated on Wed Nov 25 2020 19:54:02 GMT+0100 (Mitteleuropäische Normalzeit) using Sails v1.4.0.
+
+<!-- Internally, Sails used [`sails-generate@2.0.0`](https://github.com/balderdashy/sails-generate/tree/v2.0.0/lib/core-generators/new). -->
+
+
+This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
+
+
+<!--
+Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
+-->
+
